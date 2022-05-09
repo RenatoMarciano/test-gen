@@ -1,0 +1,6 @@
+Nome
+Idade
+Endereço
+Sexo
+E-mail
+Gosto
